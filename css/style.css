@@ -200,6 +200,9 @@ section {
 	bottom: 0; 
 	right: 0
 }
+.pdf-thumb-box .w-50{
+    max-height:104.5px;
+}
 .fa-play {
 	font-size:14px;
 	background-color:#ff8a00;
